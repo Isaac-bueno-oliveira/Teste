@@ -1,2 +1,4 @@
 # Teste
-Primeiro repositorio para teste
+Primeiro repositório para teste
+
+Adicionando linha direto do GitHub.
